@@ -3,6 +3,8 @@
 <h1>GPT-SoVITS-WebUI</h1>
 A Powerful Few-shot Voice Conversion and Text-to-Speech WebUI.<br><br>
 
+# 这个分支下的GPT-SoVITS不再支持python3.9
+
 [![madewithlove](https://img.shields.io/badge/made_with-%E2%9D%A4-red?style=for-the-badge&labelColor=orange)](https://github.com/RVC-Boss/GPT-SoVITS)
 
 <a href="https://trendshift.io/repositories/7033" target="_blank"><img src="https://trendshift.io/api/badge/repositories/7033" alt="RVC-Boss%2FGPT-SoVITS | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
@@ -61,10 +63,8 @@ For users in China, you can [click here](https://www.codewithgpu.com/i/RVC-Boss/
 | Python 3.10    | PyTorch 2.5.1    | CUDA 12.4     |
 | Python 3.11    | PyTorch 2.5.1    | CUDA 12.4     |
 | Python 3.11    | PyTorch 2.7.0    | CUDA 12.8     |
-| Python 3.9     | PyTorch 2.8.0dev | CUDA 12.8     |
-| Python 3.9     | PyTorch 2.5.1    | Apple silicon |
 | Python 3.11    | PyTorch 2.7.0    | Apple silicon |
-| Python 3.9     | PyTorch 2.2.2    | CPU           |
+| Python 3.10     | PyTorch 2.2.2    | CPU           |
 
 ### Windows
 
